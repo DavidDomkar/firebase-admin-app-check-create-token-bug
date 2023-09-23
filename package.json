@@ -1,0 +1,11 @@
+{
+  "name": "temp",
+  "packageManager": "yarn@3.5.1",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "firebase-admin": "^11.10.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
